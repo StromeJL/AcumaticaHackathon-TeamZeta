@@ -1,6 +1,6 @@
 ##This repository is used by Team Zeta for the Acumatica Summit 2017 Hackathon.
 
-###Related Items to Increase Sales in Acumatica!
+###User our "Related Items Customization" to Increase Sales in Acumatica!
 
 BJ Dimes and Bill Dimes completed the coding and made all features functional:
 
