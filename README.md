@@ -2,7 +2,7 @@
 
 ###User our "Related Items Customization" to Increase Sales in Acumatica!
 
-BJ Dimes and Bill Dimes completed the coding and made all features functional:
+We completed the coding and made all features functional:
 
 1. Create related items in both Stock and Non-Stock item forms
 2. Use the "Add Related Items" button to display items related to the item on the selected sales order body line
